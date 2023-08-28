@@ -19,7 +19,7 @@ Utilizar Live Server ⚙️
 2. CSS
 3. Media query Mobile First
 4. Normalize
-5. 
+5. Modernizr
 
 ----
 
